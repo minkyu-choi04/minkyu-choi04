@@ -1,7 +1,7 @@
 # Welcome 👋
 
 Hi, I'm <b>Minkyu</b>. I am currently a Ph.D. student in ECE at the Univerisity of Michigan. 
-I specialize in machine learning and computational neuroscience.
+I specialize in <b>machine learning and computational neuroscience</b>.
 My research aims to enhance machine intelligence, particularly in vision and language understanding, to mirror human efficiency and intelligence.
 
 My detailed research areas include, 
