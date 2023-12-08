@@ -1,5 +1,15 @@
 # Welcome 👋
 
+
+
+---
+
+<a href="https://www.linkedin.com/in/cminkyu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:cminkyu@umich.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+---
+
+
 Hi, I'm <b>Minkyu</b>. I am currently a Ph.D. student in ECE at the Univerisity of Michigan. 
 I specialize in <b>machine learning and computational neuroscience</b>.
 My research aims to enhance machine intelligence, particularly in vision and language understanding, to mirror human efficiency and intelligence.
@@ -22,13 +32,6 @@ My detailed research areas include,
 </p>
 
   
----
-
-<a href="https://www.linkedin.com/in/cminkyu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:cminkyu@umich.edu" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-
----
-
 
 ## Highlights
 - [<b>New Publication</b>] My recent publication at <b>[NeurIPS-23](https://github.com/minkyu-choi04/DualStreamBrains)</b> focuses on predicting human eye movements and brain encoding, with applications in AR/VR for neural interface control.
