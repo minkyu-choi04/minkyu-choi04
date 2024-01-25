@@ -17,7 +17,7 @@ My research aims to enhance machine intelligence, particularly in vision and lan
 My detailed research areas include, 
 - Efficient and robust computer vision systems
 - Integrated learning of multimodal language and vision
-- Learning models for multimodal brain and body signals (application to fitness tracker)
+- Learning models for multimodal brain and body signals (application to healthcare)
 - Advanced eye-tracking and brain signal prediction methods (application to AR/VR)
 
 
@@ -34,7 +34,8 @@ My detailed research areas include,
   
 
 ## Highlights
-- [<b>New Publication</b>] My recent publication at <b>[NeurIPS-23](https://github.com/minkyu-choi04/DualStreamBrains)</b> focuses on predicting human eye movements and brain encoding, with applications in AR/VR for neural interface control.
+- [<b>New Publication</b>, Jan. 2024] My new paper is accepted at Neural Computation, and will be out soon. In this study, I try to answer the source of robustness of human visions as opposed to computer vision, which is still vulnerable to malicious attacks.
+- [<b>New Publication</b>, Sept. 2023] My recent publication at <b>[NeurIPS-23](https://github.com/minkyu-choi04/DualStreamBrains)</b> focuses on predicting human eye movements and brain encoding, with possible applications in AR/VR for neural interface control.
 - My full publication list can be found at [Google Scholar](https://scholar.google.com/citations?user=QiKqiT4AAAAJ&hl=en).
 - I am currently working on predicting human emotions based on the brain and body signals, which can be applied to mobile fitness trackers. 
 - I interned as Machine learning research engineer (Summer '22) at Samsung Research America. I worked on building motion synthesis deep generative models for virtual avatar.
